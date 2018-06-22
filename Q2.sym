@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ASCII             3018
+//	OUTPUT            3013
+//	CAP               300C
+//	TEST              3004
+//	VALUE             301A
+//	PTR               3019
+//	GETCHAR           3010
+

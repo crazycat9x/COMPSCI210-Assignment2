@@ -1,0 +1,10 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ASCII             3013
+//	OUTPUT            300E
+//	TEST              3004
+//	PTR               3014
+//	GETCHAR           300B
+
